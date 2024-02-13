@@ -1,0 +1,65 @@
+Key Stats
+Filtered By Time Window: 2:05 am - 2:00 am PST
+Filtered By Location: Zeitgeist - Kitchen
+Sales,39
+Avg. Gross Sale,$23.21
+Gross Sales,$905.10
+Total Collected,"$1,021.04"
+
+Sales Summary
+Display By Source
+Filtered By Time Window: 2:05 am - 2:00 am PST
+Filtered By Location: Zeitgeist - Kitchen
+Sales Summary Displayed by Source,Gross Sales,Refunds,Discounts & Comps,Net Sales,Gift Card Sales,Tax,Tip,Partial Refunds,Total Collected,Fees,Net Total
+Point of Sale,$276.80,$0.00,-$93.55,$183.25,$0.00,$19.46,$23.02,$0.00,$225.73,-$5.67,$220.06
+Square Online,$628.30,$0.00,$0.00,$628.30,$0.00,$54.18,$112.83,$0.00,$795.31,-$30.89,$764.42
+
+Payment Methods
+Display By Location
+Filtered By Time Window: 2:05 am - 2:00 am PST
+Filtered By Location: Zeitgeist - Kitchen
+Location,Payment Method,Payments,Refunds,Payment Amount,Refund Amount,Tips,Total Collected,Fees,Net Total
+Zeitgeist - Kitchen,Card - Dipped (Chip),3,0,$107.45,$0.00,$15.86,$107.45,-$2.89,$104.56
+Zeitgeist - Kitchen,Card - Tapped (Contactless),6,0,$102.79,$0.00,$7.16,$102.79,-$2.78,$100.01
+Zeitgeist - Kitchen,Card - Swiped,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Zeitgeist - Kitchen,Card - Keyed,17,0,$457.39,$0.00,$65.48,$457.39,-$18.38,$439.01
+Zeitgeist - Kitchen,Card on File,9,0,$337.92,$0.00,$47.35,$337.92,-$12.51,$325.41
+Zeitgeist - Kitchen,Card - Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Zeitgeist - Kitchen,Cash,4,0,$15.49,$0.00,$0.00,$15.49,$0.00,$15.49
+Zeitgeist - Kitchen,Gift Card,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Zeitgeist - Kitchen,Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Zeitgeist - Kitchen,Cash App,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Zeitgeist - Kitchen,Open Ticket,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+
+Payment Methods
+Filtered By Time Window: 2:05 am - 2:00 am PST
+Filtered By Location: Zeitgeist - Kitchen
+Payment Method,Payments,Refunds,Payment Amount,Refund Amount,Tips,Total Collected,Fees,Net Total
+Card - Dipped (Chip),3,0,$107.45,$0.00,$15.86,$107.45,-$2.89,$104.56
+Card - Tapped (Contactless),6,0,$102.79,$0.00,$7.16,$102.79,-$2.78,$100.01
+Card - Swiped,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Card - Keyed,17,0,$457.39,$0.00,$65.48,$457.39,-$18.38,$439.01
+Card on File,9,0,$337.92,$0.00,$47.35,$337.92,-$12.51,$325.41
+Card - Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Cash,4,0,$15.49,$0.00,$0.00,$15.49,$0.00,$15.49
+Gift Card,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Cash App,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Open Ticket,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+
+Payment Methods
+Display By Employee
+Filtered By Time Window: 2:05 am - 2:00 am PST
+Filtered By Location: Zeitgeist - Kitchen
+Employee,Payment Method,Payments,Refunds,Payment Amount,Refund Amount,Tips,Total Collected,Fees,Net Total
+Untracked Employees,Card - Dipped (Chip),3,0,$107.45,$0.00,$15.86,$107.45,-$2.89,$104.56
+Untracked Employees,Card - Tapped (Contactless),6,0,$102.79,$0.00,$7.16,$102.79,-$2.78,$100.01
+Untracked Employees,Card - Swiped,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Untracked Employees,Card - Keyed,17,0,$457.39,$0.00,$65.48,$457.39,-$18.38,$439.01
+Untracked Employees,Card on File,9,0,$337.92,$0.00,$47.35,$337.92,-$12.51,$325.41
+Untracked Employees,Card - Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Untracked Employees,Cash,4,0,$15.49,$0.00,$0.00,$15.49,$0.00,$15.49
+Untracked Employees,Gift Card,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Untracked Employees,Other,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Untracked Employees,Cash App,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Untracked Employees,Open Ticket,0,0,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
